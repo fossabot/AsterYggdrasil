@@ -1,4 +1,6 @@
 # AsterYggdrasil
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAsterCommunity%2FAsterYggdrasil.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAsterCommunity%2FAsterYggdrasil?ref=badge_shield)
+
 
 Self-hosted Minecraft skin site and Yggdrasil/authlib-injector authentication server.
 
@@ -301,3 +303,6 @@ tmp/authlib-injector/wiki/   authlib-injector/Yggdrasil reference entrypoint
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAsterCommunity%2FAsterYggdrasil.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAsterCommunity%2FAsterYggdrasil?ref=badge_large)
